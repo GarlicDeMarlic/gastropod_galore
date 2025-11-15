@@ -1,4 +1,4 @@
-# gastropod-galore
+# gastropod_galore
 This mod, Gastropod Galore, aims to add Snails and Slugs into Minecraft with unique functions and abilities
 
 Mobs:
