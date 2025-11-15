@@ -6,7 +6,7 @@ https://mcreator.net/modification/120467/gastropod-galore
 
 https://www.curseforge.com/minecraft/mc-mods/gastropod-galore
 
-ttps://modrinth.com/mod/gastropod-galore
+https://modrinth.com/mod/gastropod-galore
 
 Mobs:
 
