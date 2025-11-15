@@ -3,8 +3,10 @@ This mod, Gastropod Galore, aims to add Snails and Slugs into Minecraft with uni
 
 You can download the mods in other platforms:
 https://mcreator.net/modification/120467/gastropod-galore
+
 https://www.curseforge.com/minecraft/mc-mods/gastropod-galore
-https://modrinth.com/mod/gastropod-galore
+
+ttps://modrinth.com/mod/gastropod-galore
 
 Mobs:
 
