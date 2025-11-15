@@ -1,6 +1,11 @@
 # gastropod_galore
 This mod, Gastropod Galore, aims to add Snails and Slugs into Minecraft with unique functions and abilities
 
+You can download the mods in other platforms:
+https://mcreator.net/modification/120467/gastropod-galore
+https://www.curseforge.com/minecraft/mc-mods/gastropod-galore
+https://modrinth.com/mod/gastropod-galore
+
 Mobs:
 
 Snails - Crop pests but can be bred with Crop items(wheat, beetroot, potato, carrot, melon) and can be tamed with bonemeal, doesn't follow players but now harvest crops and has a 40% chance to drop slimeballs each harvest, if killed has a 1 in 3 chance to drop Snail Shells, Untamed Snails have a 20% chance every eaten crop to spawn a Snailet by themselves.
