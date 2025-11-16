@@ -27,6 +27,7 @@ Sea Bunnies - Lukewarm Oceans, Deep Lukewarm Oceans, Warm Oceans.
 Magma Snails - On top of magma blocks underwater, guaranteed to spawn 3 in Thermal Geodes
 Volcanic Snails - Basalt Deltas (in the nether)
 Immortal Snail - Summoned by Right-clicking a Snail using a Totem of Undying
+
 Enchantments (Hoe):
 
 Cultivation:
@@ -53,7 +54,6 @@ Volcanic Snail Shells - No uses yet.
 Roasted Carrots - Obtained by cooking carrots, gives same hunger points and saturation as baked potatoes.
 
  
-
 Other Stuff:
 
 Thermal Geodes - Are water-filled geodes with magma in the bottom. sole purpose to spawn Magma Snails.
@@ -68,7 +68,6 @@ Slug Mucus - No Uses
  
 🔧 Planned Features/Updates: 🔧
  
-
 Snail Evolutions - Newly born Snailets would have a small chance (5-15%) to evolve into a new snail species
 Volcanic Snail Shell Chestplate - Slightly weaker than Netherite, gives Fire Resistance for 15 seconds or longer (based on Turtle Helmets)
 More Structures - Snail Dens, Abandoned Huts, etc.
